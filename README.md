@@ -5,8 +5,9 @@ REBLOCKED is a small but popular and open source website that acts as a way to h
 Note: These commands are for linux but to run on windows is pretty straight forward anyways.
 1. Install Mono and NodeJs
 ~~~
-gg
+sudo apt install nodejs
 ~~~
+Tutorial 
 3. Unzip both directories
 4. Go into the REBLOCKED directory and run Main.exe using Mono.
 5. Exit the REBLOCKED directory, go into the Alloy directory, and edit Config file to set firewall, and proxy directory name.
