@@ -7,12 +7,15 @@ Note: These commands are for linux but to run on windows is pretty straight forw
 ~~~
 sudo apt install nodejs
 ~~~
-Tutorial 
 3. Unzip both directories
-4. Go into the REBLOCKED directory and run Main.exe using Mono.
-5. Exit the REBLOCKED directory, go into the Alloy directory, and edit Config file to set firewall, and proxy directory name.
-6. Run index.js using NodeJs
-7. Go to localhost to see REBLOCKED
+~~~
+tar -xvf reblocked-main.tar.gz
+tar -xvf alloy-reblocked.tar.gz
+~~~
+5. Go into the REBLOCKED directory and run Main.exe using Mono.
+6. Exit the REBLOCKED directory, go into the Alloy directory, and edit Config file to set firewall, and proxy directory name.
+7. Run index.js using NodeJs
+8. Go to localhost to see REBLOCKED
 ## What's Next?
 Well Phase 2 is on its way with better blocking and posiiblly free Wifi but it requires and Raspberry Pi 4 or 3 to use!
 ## Credits
